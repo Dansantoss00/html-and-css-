@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hierarquia de Título</title>
+</head>
+<body>
+    
+    <h1>Entendendo Portugal</h1>
+    <h2>Introdução</h2>
+    <h2>Ordenamento do Território</h2>
+    <h3>Os intrumentos de análise</h3>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem commodi fugit corporis consectetur et inventore dicta, odio atque nesciunt alias culpa cum, repellat autem vitae id doloremque, voluptas magnam harum.</p>
+</body>
+</html>
