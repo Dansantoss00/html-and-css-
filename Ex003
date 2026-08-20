@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste com Imagens</title>
+</head>
+<body>
+    <h1>Testando a carga de imagens</h1>
+    <p>Agora vamos testar o conjunto de carga de imagens</p>
+    <img src="html full.webp" alt="Logo HTML 5">
+    <img src="logo css full.webp" alt="Logo CSS 3"> <!--Para adcionar, clicar em Ctrl+Space e clicar no nome da imagrm -->>
+    <p>Também podemos carregar imagens externas</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRzdW_Qyg1iZ1JMtzTR5PBxQUzafV4W6mV3u6aavIOOeN8zWE_Ch6L2-OMbMrNy81hm7swf6HVXi4ZAWRpBME23MhLICau15aR-3TeapB9&s=10" alt=""> <!--Para acionar imagem externa, colocar o URL no src+-->
+</body>
+</html>
