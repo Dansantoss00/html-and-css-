@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com links</title>
+</head>
+<body>
+    <h1>Usando links externos</h1>
+    <p>Você pode acessar o <a href="https://github.com/Dansantoss00/html-and-css-/new/main" target="_blank" rel="externos"> meu repositório público no Github</a></p>
+    <p>Você também pode acesssar esse <a href="https://youtu.be/w0YXHNhHpD4?si=19GzmRAQ4JaS6gCJ"target="_blank" rel="externos">vídeo no youtube</a></p>
+
+        <!--As tags target="_blank" e rel="externos" são utilizadas para utilizar hiperlinks externos sem fechar a aba do site que estamos desenvolvendo-->
+
+     <h1>Usando links internos </h1>
+     <p>Esta é a primeira página do site. Se quiser, pode acessar também <a href="pag002.html"rel="next">segunda página</a></p>
+     <h3>Usando uma página dentro de uma pasta</h3>
+     <p>Aqui você pode cliena na terceira página</p>
+
+    <h1>Links para Download</h1>
+    <ul>
+        <li>
+            <a href="livro/meulivro.pdf"  download="meulivro.pdf" type="application/pdf">Baixar livro em PDF</a>
+            <a href=""></a>
+
+            <!--Sempre é importante inserir a tag download="" e type="" para poder utilizar o download de arquivo acessar o link do iana.org/assingments/media-types para ter a lista de media types de acordo com o tipo de arquivo selecionado-->
+        </li>
+
+        <li>
+             <a href="livro/meulivro.zip" download="meulivro.zip" type="application/zip">Baixar arquivo ZIP do livro</a>
+        </li>
+    </ul>
+
+</body>
+</html>
